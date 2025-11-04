@@ -1,1 +1,9 @@
-["8303450853:AAH5wvtq7njo7yKvYMNWOE6dT8lnQz_DSuo","7229661642:AAFGpQbsXSW2eaY-ujvtAxVTTopY7C6mjEw"]
+{
+  "allowed_tokens": [
+    "7229661642:AAFGpQbsXSW2eaY-ujvtAxVTTopY7C6mjEw",
+    "8303450853:AAH5wvtq7njo7yKvYMNWOE6dT8lnQz_DSuo"
+  ],
+  "file_checksums": {
+    "/path/to/your/bot/index.js": "sha256_checksum_here"
+  }
+}
